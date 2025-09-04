@@ -51,6 +51,8 @@ The files **clientes.csv** and **contactos.csv** store the processed data used f
 
 ## Key Findings  
 
+![Correlations graph](grapgh.png)
+
 ### Main Indicators  
 - **Conversion rate of 11.1%**, reflecting the difficulty of achieving success in telemarketing campaigns.  
 - **Call duration** is the strongest predictor of conversion.  
