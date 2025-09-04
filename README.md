@@ -2,8 +2,7 @@
 
 ## Exploratory Data Analysis (EDA) with Python  
 
-This project analyzes data from telemarketing campaigns conducted by a Portuguese banking institution. The objective is to identify patterns in customer responses, key factors influencing conversion, and potential target segments to optimize future campaigns.  
-
+Comprehensive exploratory data analysis of a Portuguese bank's marketing campaign dataset using Python (Pandas, Numpy, Matplotlib). The project includes data preprocessing, missing value treatment, outlier detection, correlation analysis, and categorical variable impact assessment to identify key factors influencing customer subscription rates.
 ---
 
 ## Project Structure  
