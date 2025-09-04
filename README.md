@@ -13,11 +13,11 @@ This project analyzes data from telemarketing campaigns conducted by a Portugues
 ├── EDA_English.ipynb  
 ├── EDA_Spanish.ipynb  
 ├── Dataset/  
-   ├── bank-additional.csv  
-   └── customer-details.xlsx  
+|   ├── bank-additional.csv  
+|   └── customer-details.xlsx  
 ├── Transformed_dataset/  
-   ├── clientes.csv  
-   └── contactos.csv    
+|   ├── clientes.csv  
+|   └── contactos.csv    
 
 - **EDA_English.ipynb** and **EDA_Spanish.ipynb**: Jupyter notebooks with the full exploratory analysis in English and Spanish.  
 - **Dataset/**: Folder containing the original raw datasets.  
