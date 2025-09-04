@@ -8,7 +8,7 @@ This project analyzes data from telemarketing campaigns conducted by a Portugues
 
 ## Project Structure  
 
-```text
+
 ├── README.md  
 ├── EDA_English.ipynb  
 ├── EDA_Spanish.ipynb  
